@@ -6,6 +6,9 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.2.0f3
 - GVR Unity SDK v1.70.0
 
+## Platform
+
+- Submitting for iOS
 
 ## Notes
 
